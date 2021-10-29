@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning: git and Linux
 - 👯 I’m looking to collaborate on: ML and DL projects
-- 💬 Ask me about: anything :)
+- 💬 Ask me about: anything
 - 📫 How to reach me: maciexb@wp.pl
 - ⚡ Fun fact: 2 + 2 = 4
+
+Looking for a job connected with Data Science, ML, DL, Python automation apps:)
 
