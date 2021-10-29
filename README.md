@@ -6,5 +6,5 @@
 - 📫 How to reach me: maciexb@wp.pl
 - ⚡ Fun fact: 2 + 2 = 4
 
-Looking for a job connected with Data Science, ML, DL, Python automation apps:)
+Currently looking for a job connected with Data Science, ML, DL, Python automation apps:)
 
